@@ -1,10 +1,10 @@
 package HomeShop;
 
-public class RelayDevlivery implements Delivery{
+public class RelayDelivery implements Delivery{
 
     private int relayNumber;
 
-    public RelayDevlivery(int relayNumber) {
+    public RelayDelivery(int relayNumber) {
         this.relayNumber = relayNumber;
     }
 
